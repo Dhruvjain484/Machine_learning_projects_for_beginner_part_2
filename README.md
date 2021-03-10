@@ -1,3 +1,3 @@
 # Machine_learning_projects_for_beginner_part_2
 
-Predict the cancellation of hotel booking over the past few years
+Predicting whether the booking done by the user will get cancelled or not based on the given features
